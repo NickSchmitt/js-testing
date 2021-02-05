@@ -9,7 +9,7 @@ const object = {
 	company: "General Assembly"
 };
 
-const array = [1,"hello",{name: "Kate", age: 28}];
+const array = [1, 2, 3];
 
 const add = (num1, num2) => num1+num2;
 
